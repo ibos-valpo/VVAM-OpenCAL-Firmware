@@ -3,7 +3,7 @@
     "active": true
   },
   "stepper_motor": {
-    "driver_mode": "tic_usb",
+    "driver_mode": "step_dir",
     "A_pin": 12,
     "B_pin": 13,
     "enable_pin": 27,
